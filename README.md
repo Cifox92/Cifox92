@@ -1,7 +1,4 @@
-# [![Hi](header-github.png)]
-
-<!--
-**Cifox92/Cifox92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [![Hi](https://raw.githubusercontent.com/CIfox92/Cifox92/header-github.png)]
 
 Here are some ideas to get you started:
 
